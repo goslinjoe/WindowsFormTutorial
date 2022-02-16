@@ -1,0 +1,10 @@
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\visualStudio\my_projects\windows-forms-app__tutorial\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
